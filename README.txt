@@ -1,0 +1,1 @@
+just add images to the input folder and write command npm install and after installing all conponents write node index on the terminal
